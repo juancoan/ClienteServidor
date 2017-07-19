@@ -1,0 +1,5 @@
+c:\users\adolfo\documents\visual studio 2015\Projects\Cliente-Servidor\Cliente\bin\Debug\Cliente.exe.config
+c:\users\adolfo\documents\visual studio 2015\Projects\Cliente-Servidor\Cliente\bin\Debug\Cliente.exe
+c:\users\adolfo\documents\visual studio 2015\Projects\Cliente-Servidor\Cliente\bin\Debug\Cliente.pdb
+c:\users\adolfo\documents\visual studio 2015\Projects\Cliente-Servidor\Cliente\obj\Debug\Cliente.exe
+c:\users\adolfo\documents\visual studio 2015\Projects\Cliente-Servidor\Cliente\obj\Debug\Cliente.pdb
